@@ -2,21 +2,27 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Aline",
-      "modelo": "Modelo1"
+      "conteudo": "We are the champions my friend !!",
+      "autoria": "Queen",
+      "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Desenvolvedora Front-end",
-      "modelo": "Modelo2"
+      "conteudo": "Continue a codar... Continue a codar...",
+      "autoria": "Aline",
+      "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor",
+      "conteudo": "“Que a Força esteja com você!”",
+      "autoria": "Star Wars",
+      "modelo": "modelo3",
+      "id": 7
+    },
+    {
+      "conteudo": "Você é capaz",
       "autoria": "Aline",
-      "modelo": "Modelo3"
+      "modelo": "modelo1",
+      "id": 8
     }
   ]
 }
