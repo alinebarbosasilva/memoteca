@@ -3,10 +3,10 @@ Olá! Bem vindo ao meu repositório criado para fazer um CRUD de pensamentos .
 Nele você pode criar, listar, editar, deletar pensamentos.
 
 - Através da criação do CRUD pude práticar:
-como usar property binding, interpolação, event binding e two-way data binding
-Algumas das principais diretivas do Angular (*ngIf, *ngFor, ngClass)
-Adicionei navegação dinâmica entre componentes através das rotas
-Apliquei injeção de dependências na aplicação utilizando @Injectable nos services
+como usar property binding, interpolação, event binding e two-way data binding.
+Algumas das principais diretivas do Angular (*ngIf, *ngFor, ngClass).
+Adicionei navegação dinâmica entre componentes através das rotas.
+Apliquei injeção de dependências na aplicação utilizando @Injectable nos services.
 Realizei requisições HTTP através da classe HttpClient utilizando os principais métodos (GET, POST, DELETE, PUT)
 
 - Bibliotecas/Sites
